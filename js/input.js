@@ -12,4 +12,4 @@ let emailToInput = () => {
 }
 
 exports.termInput = termInput
-exports.emailTuInput = emailTuInput
+exports.emailToInput = emailToInput

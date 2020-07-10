@@ -1,5 +1,5 @@
 const data      = require('./data')
-const content   = require('./all/content')
+const content   = require('./content')
 const mail      = require('./mail')
 const input     = require('./input')
 
